@@ -6,3 +6,8 @@ It performs the task to predict a dependent variable value (y) based on a given 
 The scattered data is presented as:
 
 <img src="images/data.png" alt="data" />
+
+Simple linear regression has only one x and one y variable. Multiple linear regression has one y and two or more x variables. For instance, in above case, I have predicted sales on the basis of advertisement on TV.
+The graph for Simple Linear Regression is:
+
+<img src="images/simple_linear_regression.png" alt="simple_linear_regression.png" />
