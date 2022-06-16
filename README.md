@@ -7,7 +7,11 @@ The scattered data is presented as:
 
 <img src="images/data.png" alt="data" />
 
-Simple linear regression has only one x and one y variable. Multiple linear regression has one y and two or more x variables. For instance, in above case, I have predicted sales on the basis of advertisement on TV.
+Simple linear regression has only one x and one y variable. Multiple linear regression has one y and two or more x variables. For instance, in above case, I have predicted sales on the basis of cost for advertisement on TV.
 The graph for Simple Linear Regression is:
 
 <img src="images/simple linear regression.png" alt="simple linear regression.png" />
+
+For multiple linear regression all other factors are used to predict the sales.
+
+<img src="images/multiple linear regression.png" alt="multiple linear regression.png" />
